@@ -1,16 +1,110 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.svg" alt="Tri — Web Developer. Websites with a clear purpose." width="100%" />
+</p>
 
-<!--
-**Chisdaya0910/Chisdaya0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Good design. Clear purpose. Better websites.</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Hi, I'm <strong>Tri</strong>, a web developer based in <strong>Ho Chi Minh City, Vietnam</strong>.<br />
+  I build websites for small and medium-sized businesses — to showcase services,<br />
+  connect with customers, and bring online stores to life.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~011c3300901128f074"><img src="https://img.shields.io/badge/UPWORK-View_my_profile-6FDA44?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="View my Upwork profile" /></a>
+  <a href="#selected-work"><img src="https://img.shields.io/badge/PORTFOLIO-Selected_work-A78BFA?style=for-the-badge" alt="Explore selected work" /></a>
+</p>
+
+<p align="center"><sub>Web development &nbsp; / &nbsp; Web design &nbsp; / &nbsp; Shopify &nbsp; · &nbsp; Rising Talent on Upwork</sub></p>
+
+<br />
+
+## Selected work
+
+Two projects from my Upwork portfolio, exploring product presentation and ecommerce design.
+
+### 01 / AppShare
+
+<a href="https://www.upwork.com/freelancers/~011c3300901128f074">
+  <img src="./assets/appshare.svg" alt="AppShare — Product Landing Page Website. Original portfolio cover artwork." width="100%" />
+</a>
+
+**AppShare Product Landing Page Website**  
+A product landing page website, featured in my Upwork portfolio.
+
+`Web Design` &nbsp; `Web Development`  
+[View my portfolio on Upwork ↗](https://www.upwork.com/freelancers/~011c3300901128f074)
+
+<br />
+
+### 02 / Streetwear ecommerce
+
+<a href="https://www.upwork.com/freelancers/~011c3300901128f074">
+  <img src="./assets/streetwear.svg" alt="Shopify Streetwear — Ecommerce Website Concept. Original portfolio cover artwork." width="100%" />
+</a>
+
+**Shopify Streetwear Ecommerce Website Concept**  
+A Shopify streetwear ecommerce website concept, featured in my Upwork portfolio.
+
+`Web Design` &nbsp; `Web Development` &nbsp; `Ecommerce Concept`  
+[View my portfolio on Upwork ↗](https://www.upwork.com/freelancers/~011c3300901128f074)
+
+<sub>Project covers are original illustrations made for this profile, rather than screenshots of the websites. Project details are available through my Upwork portfolio.</sub>
+
+<br />
+
+## What I can help with
+
+| Your goal | My focus |
+| :--- | :--- |
+| **Introduce your business** | Websites that present your business and services. |
+| **Showcase a product** | Product landing pages and web design. |
+| **Start an online store** | Ecommerce websites, Shopify development, and Shopify website design. |
+| **Build for the web** | Website and web application development. |
+
+<br />
+
+## Behind the work
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-171827?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-171827?style=for-the-badge&amp;logo=css&amp;logoColor=8B9FFF" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-171827?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-171827?style=for-the-badge&amp;logo=python&amp;logoColor=8BBAE8" alt="Python" />
+  <img src="https://img.shields.io/badge/Shopify-171827?style=for-the-badge&amp;logo=shopify&amp;logoColor=96BF48" alt="Shopify" />
+</p>
+
+| Focus | Skills |
+| :--- | :--- |
+| **Web foundations** | HTML · CSS · JavaScript |
+| **Programming** | Python |
+| **Ecommerce** | Shopify · Shopify Development · Shopify Website Design |
+| **Design & development** | Web Design · Web Development · Web Application |
+| **Working together** | Clear communication · Attention to detail |
+
+<details>
+  <summary><strong>A little more about me</strong></summary>
+
+<br />
+
+<ul>
+  <li>Based in <strong>Ho Chi Minh City, Vietnam</strong>.</li>
+  <li>Focused on websites for <strong>small and medium-sized businesses</strong>.</li>
+  <li>My work spans <strong>business websites, product landing pages, and online stores</strong>.</li>
+  <li>Find my portfolio and professional profile on <a href="https://www.upwork.com/freelancers/~011c3300901128f074">Upwork</a>.</li>
+</ul>
+
+</details>
+
+<br />
+
+<p align="center"><img src="./assets/footer.svg" alt="Have a website in mind? Let's build it together." width="100%" /></p>
+
+<p align="center">
+  Have a business, a product, or a store to bring online?<br />
+  <strong>Let's talk about your website.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~011c3300901128f074"><img src="https://img.shields.io/badge/LET'S_TALK-On_Upwork-6FDA44?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Contact Tri on Upwork" /></a>
+</p>
