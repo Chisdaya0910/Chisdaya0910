@@ -20,6 +20,19 @@
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
+## Kho mã nổi bật
+
+Các kho mã công khai của mình trên GitHub. Nhấn vào từng thẻ để xem nội dung.
+
+<p align="center">
+  <a href="https://github.com/Krev1/Krev1"><img src="./assets/repo-profile.svg" alt="Krev1 — Hồ sơ cá nhân và danh mục dự án. Kho mã công khai." width="49%" /></a>
+  <a href="https://github.com/Krev1/Learn"><img src="./assets/repo-learn.svg" alt="Learn — Kho dành cho hành trình tự học Python. Kho mã công khai." width="49%" /></a>
+</p>
+
+[Xem tất cả kho mã →](https://github.com/Krev1?tab=repositories)
+
+<br />
+
 ## Selected work
 
 Product pages, ecommerce, and development tooling — selected projects and contributions.
@@ -132,4 +145,3 @@ A contribution to **ProZ0**, a browser-based pixel-art survival and exploration 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~011c3300901128f074"><img src="./assets/link-upwork.svg" alt="Contact Tri on Upwork" width="280" /></a>
 </p>
-
