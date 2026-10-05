@@ -11,13 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~011c3300901128f074"><img src="https://img.shields.io/badge/UPWORK-View_my_profile-6FDA44?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="View my Upwork profile" /></a>
-  <a href="#selected-work"><img src="https://img.shields.io/badge/PORTFOLIO-Selected_work-A78BFA?style=for-the-badge" alt="Explore selected work" /></a>
+  <a href="#selected-work"><img src="./assets/link-work.svg" alt="View selected work" width="30%" /></a>
+  <a href="https://www.upwork.com/freelancers/~011c3300901128f074"><img src="./assets/link-upwork.svg" alt="Connect with Tri on Upwork" width="30%" /></a>
+  <a href="https://github.com/Chisdaya0910?tab=repositories"><img src="./assets/link-github.svg" alt="Explore my GitHub repositories" width="30%" /></a>
 </p>
 
 <p align="center"><sub>Web development &nbsp; / &nbsp; Web design &nbsp; / &nbsp; Shopify &nbsp; · &nbsp; Rising Talent on Upwork</sub></p>
 
-<br />
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
 ## Selected work
 
@@ -74,7 +75,7 @@ A contribution to **ProZ0**, a browser-based pixel-art survival and exploration 
 
 <sub>Project covers are original illustrations, not screenshots. ProZ0 is presented as a contribution.</sub>
 
-<br />
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
 ## What I can help with
 
@@ -129,5 +130,5 @@ A contribution to **ProZ0**, a browser-based pixel-art survival and exploration 
 </p>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~011c3300901128f074"><img src="https://img.shields.io/badge/LET'S_TALK-On_Upwork-6FDA44?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Contact Tri on Upwork" /></a>
+  <a href="https://www.upwork.com/freelancers/~011c3300901128f074"><img src="./assets/link-upwork.svg" alt="Contact Tri on Upwork" width="280" /></a>
 </p>
