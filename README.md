@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/header-silhouette.jpg" alt="Tri — Web Developer. Silhouette cyberpunk city beneath a purple galactic sky." width="100%" />
+  <img src="./assets/header-krev1.jpg" alt="Krev1 — Web Developer. Silhouette cyberpunk city beneath a purple galactic sky." width="100%" />
 </p>
 
 <h1 align="center">Good design. Clear purpose. Better websites.</h1>
 
 <p align="center">
-  Hi, I'm <strong>Tri</strong>, a web developer based in <strong>Ho Chi Minh City, Vietnam</strong>.<br />
+  Hi, I'm <strong>Tri (Krev1)</strong>, a web developer based in <strong>Ho Chi Minh City, Vietnam</strong>.<br />
   I build websites for small and medium-sized businesses — to showcase services,<br />
   connect with customers, and bring online stores to life.
 </p>
@@ -13,7 +13,7 @@
 <p align="center">
   <a href="#selected-work"><img src="./assets/link-work.svg" alt="View selected work" width="30%" /></a>
   <a href="https://www.upwork.com/freelancers/~011c3300901128f074"><img src="./assets/link-upwork.svg" alt="Connect with Tri on Upwork" width="30%" /></a>
-  <a href="https://github.com/Chisdaya0910?tab=repositories"><img src="./assets/link-github.svg" alt="Explore my GitHub repositories" width="30%" /></a>
+  <a href="https://github.com/Krev1?tab=repositories"><img src="./assets/link-github.svg" alt="Explore my GitHub repositories" width="30%" /></a>
 </p>
 
 <p align="center"><sub>Web development &nbsp; / &nbsp; Web design &nbsp; / &nbsp; Shopify &nbsp; · &nbsp; Rising Talent on Upwork</sub></p>
