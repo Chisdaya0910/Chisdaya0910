@@ -37,16 +37,23 @@ A product landing page website, featured in my Upwork portfolio.
 
 <br />
 
-### 02 / Streetwear ecommerce
+### 02 / Shopify Theme Reconstruction
 
 <a href="https://www.upwork.com/freelancers/~011c3300901128f074">
-  <img src="./assets/streetwear.svg" alt="Shopify Streetwear — Ecommerce Website Concept. Original portfolio cover artwork." width="100%" />
+  <img src="./assets/streetwear.svg" alt="Shopify Theme Reconstruction — Baseline and Strike storefront styles. Original illustrated cover." width="100%" />
 </a>
 
-**Shopify Streetwear Ecommerce Website Concept**  
-A Shopify streetwear ecommerce concept with a locally implemented theme. The theme includes product and collection presentation, a product gallery, search, cart drawers, contact forms, and customer account pages.
+**Shopify Theme Reconstruction · Baseline / Strike styles**  
+A Shopify theme implementation for a streetwear storefront, developed through multiple demo and final archive versions. The supplied source includes **58 Liquid section files** and separate Baseline-style and Strike-style homepage templates.
 
-`Shopify Liquid` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `Ecommerce Concept`  
+- **Storefront design:** configurable sections, product walls, featured menus, collection carousels, and scrolling announcements.
+- **Shopping interactions:** product quick view, variant selection, image gallery, cart drawer, and search drawer.
+- **Store pages:** product, collection, cart, blog, article, contact, policy, and customer account templates.
+- **Theme customization:** section settings and configurable color schemes.
+
+<sub>Implementation details verified from the supplied archives. A public code repository or unrestricted live demo has not been provided.</sub>
+
+`Shopify Liquid` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `JSON Templates`  
 [View my portfolio on Upwork ↗](https://www.upwork.com/freelancers/~011c3300901128f074)
 
 <br />
