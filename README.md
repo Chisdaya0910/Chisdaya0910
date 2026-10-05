@@ -21,7 +21,7 @@
 
 ## Selected work
 
-Two projects from my Upwork portfolio, exploring product presentation and ecommerce design.
+Product pages, ecommerce, development tooling, and technical documentation — selected projects and contributions.
 
 ### 01 / AppShare
 
@@ -44,12 +44,40 @@ A product landing page website, featured in my Upwork portfolio.
 </a>
 
 **Shopify Streetwear Ecommerce Website Concept**  
-A Shopify streetwear ecommerce website concept, featured in my Upwork portfolio.
+A Shopify streetwear ecommerce concept with a locally implemented theme. The theme includes product and collection presentation, a product gallery, search, cart drawers, contact forms, and customer account pages.
 
-`Web Design` &nbsp; `Web Development` &nbsp; `Ecommerce Concept`  
+`Shopify Liquid` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `Ecommerce Concept`  
 [View my portfolio on Upwork ↗](https://www.upwork.com/freelancers/~011c3300901128f074)
 
-<sub>Project covers are original illustrations made for this profile, rather than screenshots of the websites. Project details are available through my Upwork portfolio.</sub>
+<br />
+
+### 03 / ProZ0 · Development tooling contribution
+
+<a href="https://github.com/5erax/ProZ0">
+  <img src="./assets/proz0.svg" alt="ProZ0 — Audio audition tooling contribution. Original illustrated cover." width="100%" />
+</a>
+
+A contribution to **ProZ0**, a browser-based pixel-art survival and exploration game. My local work includes an **audio audition harness**, browser tooling fixes, and documentation for audio comparison and review gates.
+
+**Contribution:** development and audio review tooling.  
+**Project stack:** TypeScript · PixiJS · Vite · Vitest · Playwright.  
+[Explore the project ↗](https://github.com/5erax/ProZ0)
+
+<br />
+
+### 04 / MediMate AI Rulebook · Technical documentation
+
+<img src="./assets/medimate.svg" alt="MediMate AI Rulebook — Requirements, business rules, and release gates. Original illustrated cover." width="100%" />
+
+A **proposed version 2.0 rulebook** for the MediMate AI project, covering requirements, business rules, constraints, standards, conventions, guidelines, policies, and release traceability.
+
+**Contribution:** structured technical and product documentation, including the distinction between demo features and production readiness.  
+**Project scope:** React/Vite frontend · ASP.NET Core backend.  
+<sub>Local documentation project; a public repository or demo link is not currently available.</sub>
+
+<br />
+
+<sub>Project covers are original illustrations, not screenshots. ProZ0 is presented as a contribution; MediMate AI Rulebook is a proposed documentation deliverable.</sub>
 
 <br />
 
