@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Tri — Web Developer. Websites with a clear purpose." width="100%" />
+  <img src="./assets/header-pov.jpg" alt="Tri — Web Developer. Ground-level POV of a neon cyberpunk city under galactic skies, with humans, AI robots and extraterrestrial citizens." width="100%" />
 </p>
 
 <h1 align="center">Good design. Clear purpose. Better websites.</h1>
@@ -132,3 +132,4 @@ A contribution to **ProZ0**, a browser-based pixel-art survival and exploration 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~011c3300901128f074"><img src="./assets/link-upwork.svg" alt="Contact Tri on Upwork" width="280" /></a>
 </p>
+
