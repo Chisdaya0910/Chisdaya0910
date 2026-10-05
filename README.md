@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-pov.jpg" alt="Tri — Web Developer. Ground-level POV of a neon cyberpunk city under galactic skies, with humans, AI robots and extraterrestrial citizens." width="100%" />
+  <img src="./assets/header-minimal.jpg" alt="Tri — Web Developer. A simple illustrated neon city seen from below beneath a soft galactic sky." width="100%" />
 </p>
 
 <h1 align="center">Good design. Clear purpose. Better websites.</h1>
