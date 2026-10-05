@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Tri — Web Developer. A simple illustrated neon city seen from below beneath a soft galactic sky." width="100%" />
+  <img src="./assets/header-silhouette.jpg" alt="Tri — Web Developer. Silhouette cyberpunk city beneath a purple galactic sky." width="100%" />
 </p>
 
 <h1 align="center">Good design. Clear purpose. Better websites.</h1>
@@ -27,7 +27,7 @@ Product pages, ecommerce, and development tooling — selected projects and cont
 ### 01 / AppShare
 
 <a href="https://www.upwork.com/freelancers/~011c3300901128f074">
-  <img src="./assets/appshare.svg" alt="AppShare — Product Landing Page Website. Original portfolio cover artwork." width="100%" />
+  <img src="./assets/appshare-silhouette.jpg" alt="AppShare — Product Landing Page Website. Original portfolio cover artwork." width="100%" />
 </a>
 
 **AppShare Product Landing Page Website**  
@@ -41,7 +41,7 @@ A product landing page website, featured in my Upwork portfolio.
 ### 02 / Shopify Theme Reconstruction
 
 <a href="https://www.upwork.com/freelancers/~011c3300901128f074">
-  <img src="./assets/streetwear.svg" alt="Shopify Theme Reconstruction — Baseline and Strike storefront styles. Original illustrated cover." width="100%" />
+  <img src="./assets/shopify-silhouette.jpg" alt="Shopify Theme Reconstruction — Baseline and Strike storefront styles. Original illustrated cover." width="100%" />
 </a>
 
 **Shopify Theme Reconstruction · Baseline / Strike styles**  
@@ -62,7 +62,7 @@ A Shopify theme implementation for a streetwear storefront, developed through mu
 ### 03 / ProZ0 · Development tooling contribution
 
 <a href="https://github.com/5erax/ProZ0">
-  <img src="./assets/proz0.svg" alt="ProZ0 — Audio audition tooling contribution. Original illustrated cover." width="100%" />
+  <img src="./assets/proz0-silhouette.jpg" alt="ProZ0 — Audio audition tooling contribution. Original illustrated cover." width="100%" />
 </a>
 
 A contribution to **ProZ0**, a browser-based pixel-art survival and exploration game. My local work includes an **audio audition harness**, browser tooling fixes, and documentation for audio comparison and review gates.
@@ -132,3 +132,4 @@ A contribution to **ProZ0**, a browser-based pixel-art survival and exploration 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~011c3300901128f074"><img src="./assets/link-upwork.svg" alt="Contact Tri on Upwork" width="280" /></a>
 </p>
+
