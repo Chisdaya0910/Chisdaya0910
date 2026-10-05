@@ -21,7 +21,7 @@
 
 ## Selected work
 
-Product pages, ecommerce, development tooling, and technical documentation — selected projects and contributions.
+Product pages, ecommerce, and development tooling — selected projects and contributions.
 
 ### 01 / AppShare
 
@@ -65,19 +65,7 @@ A contribution to **ProZ0**, a browser-based pixel-art survival and exploration 
 
 <br />
 
-### 04 / MediMate AI Rulebook · Technical documentation
-
-<img src="./assets/medimate.svg" alt="MediMate AI Rulebook — Requirements, business rules, and release gates. Original illustrated cover." width="100%" />
-
-A **proposed version 2.0 rulebook** for the MediMate AI project, covering requirements, business rules, constraints, standards, conventions, guidelines, policies, and release traceability.
-
-**Contribution:** structured technical and product documentation, including the distinction between demo features and production readiness.  
-**Project scope:** React/Vite frontend · ASP.NET Core backend.  
-<sub>Local documentation project; a public repository or demo link is not currently available.</sub>
-
-<br />
-
-<sub>Project covers are original illustrations, not screenshots. ProZ0 is presented as a contribution; MediMate AI Rulebook is a proposed documentation deliverable.</sub>
+<sub>Project covers are original illustrations, not screenshots. ProZ0 is presented as a contribution.</sub>
 
 <br />
 
